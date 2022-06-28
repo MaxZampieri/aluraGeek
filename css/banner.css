@@ -39,13 +39,13 @@
     .content__banner h1 {
         font-size: 1.5rem;
         padding: 0 0 10px 10px;
-        color: #041833;
+        color: #0a4188;
         font-weight: bold;
         
     }
     .content__banner h3 {
         padding: 0 0 10px 10px;
-        color: #041833
+        color: #0a4188;
      }
      .btn__banner {
         width: 110px;
@@ -56,5 +56,12 @@
         color: #ffffff;
         font-size: 10px;
     
+    }
+    .content__banner {
+        font-family: var(--fonte--principal);
+        position: relative;
+        top: 50%;
+        transform: translateY(-130%); 
+      
     }
 }

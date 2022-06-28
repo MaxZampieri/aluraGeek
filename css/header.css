@@ -75,6 +75,9 @@ header {
     .img__alura {
         width: 50px;
     }
+    .login {
+        margin-right: 10px;
+    }
     .btn__login {
         margin: 0;
         width: 120px;
