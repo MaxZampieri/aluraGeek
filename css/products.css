@@ -71,4 +71,7 @@
     .view__all img {
         width: 20px;
     }
+    .ignore {
+        display: none;
+    }
 }
