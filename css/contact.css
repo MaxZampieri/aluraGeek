@@ -60,3 +60,32 @@
     font-family: var(--fonte--principal);
     border: none;
 }
+
+/*=======Responsive==========*/
+
+@media screen and (max-width: 768px){
+    .contact__content {
+        display: flex;
+        flex-direction: column;
+    }
+    .inputs__contact{
+        margin: 0;
+        width: 80%;
+    }
+    .input__text {
+        width: 100%;
+        
+    }
+    .input__text___name {
+        width: 100%;
+       
+    }
+    .contact__content {
+        display: flex;
+        align-items: center;
+    }
+    .contact__text{
+        text-align: center;
+    }
+
+}

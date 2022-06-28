@@ -9,3 +9,10 @@ footer h4 {
     font-family: var(--fonte--principal);
     text-align: center;
 }
+/*=======Responsive==========*/
+
+@media screen and (max-width: 768px){
+    footer{
+        position: fixed;
+    }
+}

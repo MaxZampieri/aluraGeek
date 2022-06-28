@@ -33,3 +33,28 @@
     color: #ffffff;
 
 }
+/*=======Responsive==========*/
+
+@media screen and (max-width: 768px){
+    .content__banner h1 {
+        font-size: 1.5rem;
+        padding: 0 0 10px 10px;
+        color: #041833;
+        font-weight: bold;
+        
+    }
+    .content__banner h3 {
+        padding: 0 0 10px 10px;
+        color: #041833
+     }
+     .btn__banner {
+        width: 110px;
+        height: 31px;
+        margin-left: 10px;
+        background-color: #ff154f;
+        border: none;
+        color: #ffffff;
+        font-size: 10px;
+    
+    }
+}
