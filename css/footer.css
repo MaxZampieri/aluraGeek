@@ -8,6 +8,7 @@ footer {
 footer h4 {
     font-family: var(--fonte--principal);
     text-align: center;
+    color: #464646;
 }
 /*=======Responsive==========*/
 

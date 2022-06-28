@@ -31,6 +31,9 @@
     flex-direction: column;
     margin-right: 80px;
 }
+.inputs__contact h3 {
+    color: #464646;
+}
 .input__text___name {
     width: 500px;
     margin-bottom: 15px;

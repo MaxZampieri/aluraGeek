@@ -11,7 +11,7 @@
 .cards__products {
     background-color: #ffffff;
     padding: 10px 10px 40px;
-    border: solid 1px gray;
+    border: solid 1px rgb(197, 193, 193);
 
 }
 .cards__products img {
