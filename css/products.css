@@ -12,6 +12,7 @@
     background-color: #ffffff;
     padding: 10px 10px 40px;
     border: solid 1px rgb(197, 193, 193);
+    border-radius: 4px;
 
 }
 .cards__products img {
@@ -60,5 +61,14 @@
         display: flex;
         justify-content: space-between;
         margin: 50px 10px;
+    }
+    .title__products h1 {
+       font-size: 1.5rem;
+    }
+    .view__all a {
+        font-size: .7rem;
+    }
+    .view__all img {
+        width: 20px;
     }
 }
