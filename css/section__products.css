@@ -44,6 +44,7 @@
     margin-bottom: 20px;
     border: none;
     font-family: var(--fonte--principal);
+    outline: none;
 }
 /*=======Responsive==========*/
 
@@ -59,6 +60,7 @@
     }
     .text__area {
         font-size: .8rem;
+        
     }
     
 }
